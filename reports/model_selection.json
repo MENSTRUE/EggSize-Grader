@@ -1,0 +1,15 @@
+{
+  "selected_checkpoint": "models/best.pt",
+  "selected_by": "Ultralytics training validation fitness; validation mAP50-95 also reported",
+  "validation": {
+    "precision": 0.8981428295130748,
+    "recall": 0.8230791401057914,
+    "mAP50": 0.9098862001148765,
+    "mAP50_95": 0.8352871510703305,
+    "AP50_95_large": 0.77317370754029,
+    "AP50_95_medium": 0.8926830167492203,
+    "AP50_95_small": 0.84000472892148
+  },
+  "test_used_for_selection": false,
+  "num_candidate_architectures": 1
+}

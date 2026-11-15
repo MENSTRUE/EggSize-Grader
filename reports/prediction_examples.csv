@@ -1,0 +1,13 @@
+image,num_predictions,predicted_classes,confidences
+07c08f0d339d_680015832_938442495724373_1807832810989139919_n_jpg.rf.7ac2fe83f6d49352bc7aae00dcea0c59.jpg,7,large;large;large;large;large;large;large,0.8438;0.7947;0.7837;0.7091;0.5921;0.5392;0.5369
+09b9aa83e6ff_66896f56-0f86-4291-8394-95ae37bef687_jpg.rf.7aa2edce36a60ae17c1bb89cc2c453c5.jpg,4,large;large;large;large,0.9297;0.9212;0.9173;0.9141
+12f5ceb66f6f_Medium-21-_jpg.rf.9a7ed638c47c575e352456984c0252b3.jpg,28,medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium,0.9221;0.9199;0.9017;0.8856;0.8786;0.8784;0.8694;0.8599;0.8228;0.8111;0.8010;0.7936;0.7879;0.7791;0.7598;0.7460;0.7307;0.7201;0.6869;0.6748;0.6355;0.4391;0.4043;0.3989;0.3850;0.3751;0.3414;0.2538
+13c146864518_70b6aa67-edcf-4834-866f-ca284d033e1e_jpg.rf.dc8857b47ac7ca9ca17934c81ef0d839.jpg,8,large;large;large;large;large;large;large;large,0.9272;0.9266;0.9193;0.8573;0.8318;0.7851;0.5361;0.3264
+15ec882d50ae_Medium-9-_jpg.rf.e220b5b97b153a6be4d00544240bfcd1.jpg,5,medium;medium;medium;medium;medium,0.8786;0.8720;0.6859;0.6853;0.6281
+1d70fc6dae31_70b6aa67-edcf-4834-866f-ca284d033e1e_jpg.rf.83bafe45173c17f3b170d02d55b8473a.jpg,10,large;large;large;large;large;large;large;large;large;large,0.9477;0.9094;0.8892;0.8703;0.8585;0.7835;0.7615;0.6284;0.6203;0.4254
+22990e21a4f2_7776a33f-ecc6-40b8-9b4b-10d6df8620f8_jpg.rf.883045bc6b583b656c031f5dcfe579a3.jpg,8,large;large;large;large;large;large;large;large,0.9423;0.9238;0.8948;0.8661;0.8563;0.8456;0.8173;0.6825
+253fcc2dca50_c0bde8b1-46f2-4416-9c5a-13ce0beab0cd_jpg.rf.e0276c6eb3323f9f6f3836043e7411ad.jpg,9,medium;medium;medium;medium;small;small;small;medium;small,0.8048;0.8027;0.7811;0.7438;0.6877;0.5203;0.4964;0.4112;0.2646
+2728de94bd16_Medium-16-_jpg.rf.bb3fe3bc2180b86b871a92444acfa3be.jpg,7,medium;medium;medium;medium;medium;medium;medium,0.9340;0.9339;0.9161;0.9150;0.9137;0.5121;0.3497
+279e439442b8_Medium-9-_jpg.rf.8ada6e53eb6f6b1fc126c4d4776063a0.jpg,13,medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium,0.9352;0.9302;0.9221;0.9194;0.9176;0.9127;0.9121;0.9098;0.9090;0.9012;0.8989;0.8940;0.8820
+285eb91a7890_Medium-16-_jpg.rf.2949c5ea003f83a52b9f690de8ddb26f.jpg,3,medium;medium;medium,0.6153;0.4582;0.3511
+2c37e81ed121_Medium-9-_jpg.rf.255ebb32074e7450381131e0565f366c.jpg,13,medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium;medium,0.9566;0.9540;0.9509;0.9469;0.9463;0.9455;0.9432;0.9398;0.9380;0.9320;0.9292;0.9285;0.9268

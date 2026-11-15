@@ -1,0 +1,6 @@
+{
+  "pytorch_checkpoint_exists": true,
+  "pytorch_reload_and_inference": true,
+  "onnx_requested": false,
+  "onnx_verified": false
+}

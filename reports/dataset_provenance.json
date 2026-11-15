@@ -1,0 +1,25 @@
+{
+  "input_mount": "/kaggle/input/datasets/loliwibu/eggsizegrader-dataset",
+  "dataset_root": "/kaggle/input/datasets/loliwibu/eggsizegrader-dataset",
+  "source_yaml": "data.yaml",
+  "classes": [
+    "large",
+    "medium",
+    "small"
+  ],
+  "nc": 3,
+  "roboflow": {
+    "workspace": "abegaille-jean-lapiz",
+    "project": "eggs-sizes-final",
+    "version": 2,
+    "license": "CC BY 4.0",
+    "url": "https://universe.roboflow.com/abegaille-jean-lapiz/eggs-sizes-final/dataset/2"
+  },
+  "source_splits": {
+    "train": "train",
+    "val": "valid",
+    "test": "test"
+  },
+  "accessed_utc": "2026-11-15T12:34:06.340889+00:00",
+  "license_verification": "source YAML declaration only; independently verify upstream rights"
+}

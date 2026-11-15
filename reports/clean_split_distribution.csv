@@ -1,0 +1,4 @@
+split,images,large,medium,small
+train,227,524,689,561
+val,41,146,64,101
+test,50,136,131,112

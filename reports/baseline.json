@@ -1,0 +1,8 @@
+{
+  "name": "predict_no_objects",
+  "number_predictions": 0,
+  "gt_objects_train": 1774,
+  "gt_objects_val": 311,
+  "recall_on_annotated_objects": 0.0,
+  "note": "Sanity baseline only; not comparable to detection mAP and no fabricated mAP is claimed."
+}

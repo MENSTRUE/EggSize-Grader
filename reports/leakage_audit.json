@@ -1,0 +1,7 @@
+{
+  "original_split_overlap_source_keys": 12,
+  "original_split_overlap_exact_sha256": 0,
+  "total_images": 318,
+  "total_conservative_groups": 153,
+  "method": "union(source stem stripped of Roboflow suffix, SHA256 bytes); resplit by group; visual near-duplicate not excluded"
+}
