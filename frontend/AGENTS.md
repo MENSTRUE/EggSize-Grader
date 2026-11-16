@@ -1,6 +1,5 @@
-# Frontend agent rules
-- Follow fixed root structure; do not restructure existing repo.
-- Never simulate detections. API is source for upload inference; scientific reports are source for held-out metrics.
-- Maintain proper loading/error/unavailable/empty states and accessible form labels.
-- Preserve exact class order large, medium, small and make no grams/diameter claims.
-- Test `npm run build`, and an actual upload against running backend before claiming integration verified.
+# Frontend AGENTS.md
+
+Inherit [root rules](../AGENTS.md). Existing stack is React 18 + TypeScript + Vite + lucide-react, no React Router; screen selection is local App state. Keep files under `frontend/src/{components,hooks,pages,services,types,styles}` and avoid replacing unrelated design assets. `src/services/api.ts` is the sole live FastAPI bridge; uploaded-image predictions must never be mocked. Preserve explicit `ready`, `error`, `busy`, empty-selection and preview states. Require image/jpeg, image/png or image/webp and ≤10 MiB before POST. Confidence 0.05–0.95, IoU 0.10–0.90.
+
+Visuals: `ResultCanvas` draws API `box_xyxy` onto the original image dimensions; never mislabel a prediction as ground truth. Export only actual results and escape CSV fields if changing CSV structure. Display `reports/heldout_test_metrics.json` as *historical research test metrics*; the current UI embeds copied values and must be synchronized manually if reports change. Test `npm run build`, dev proxy `/api → 127.0.0.1:8000`, keyboard/file workflow, and actual browser upload. Do not claim public deployment, physical grading, or that a single screenshot validates accuracy.
